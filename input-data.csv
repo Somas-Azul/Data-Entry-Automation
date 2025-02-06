@@ -1,0 +1,36 @@
+ProductID,ProductName,Category,Price,Quantity,Date
+P001,Laptop,Electronics,1200,5,2024-07-26
+P002,Mouse,Electronics,25,20,2024-07-26
+P003,Keyboard,Electronics,75,10,2024-07-26
+P004,Monitor,Electronics,300,3,2024-07-27
+P005,Tablet,Electronics,400,8,2024-07-27
+P006,Coffee Maker,Home Appliances,50,15,2024-07-27
+P007,Blender,Home Appliances,75,12,2024-07-28
+P008,Toaster,Home Appliances,30,25,2024-07-28
+P009,Refrigerator,Home Appliances,800,2,2024-07-28
+P010,Washing Machine,Home Appliances,600,4,2024-07-29
+P011,T-shirt,Clothing,20,50,2024-07-29
+P012,Jeans,Clothing,50,30,2024-07-29
+P013,Sweater,Clothing,40,20,2024-07-30
+P014,Jacket,Clothing,80,10,2024-07-30
+P015,Dress,Clothing,60,15,2024-07-30
+P016,Book,Books,15,30,2024-07-31
+P017,Notebook,Stationery,5,100,2024-07-31
+P018,Pen,Stationery,2,200,2024-07-31
+P019,Pencil,Stationery,1,300,2024-08-01
+P020,Eraser,Stationery,0.5,500,2024-08-01
+P021,Office Chair,Furniture,150,5,2024-08-01
+P022,Desk,Furniture,250,3,2024-08-02
+P023,Sofa,Furniture,500,2,2024-08-02
+P024,Bed,Furniture,400,1,2024-08-02
+P025,Dining Table,Furniture,300,3,2024-08-03
+P026,Shampoo,Personal Care,10,50,2024-08-03
+P027,Soap,Personal Care,5,100,2024-08-03
+P028,Toothpaste,Personal Care,4,75,2024-08-04
+P029,Toothbrush,Personal Care,3,150,2024-08-04
+P030,Lotion,Personal Care,8,60,2024-08-04
+P031,Ball,Sports,20,40,2024-08-05
+P032,Bat,Sports,30,20,2024-08-05
+P033,Gloves,Sports,15,30,2024-08-05
+P034,Shoes,Sports,60,10,2024-08-06
+P035,Racket,Sports,40,15,2024-08-06
